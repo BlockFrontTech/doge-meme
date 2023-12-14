@@ -32,7 +32,7 @@ const Menu = ({ onClose }) => {
   }, []);
 
   const onFrameButton2Click = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://serparking.vercel.app");
   }, []);
 
   return (
