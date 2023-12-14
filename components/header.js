@@ -14,7 +14,7 @@ const Header = () => {
   }, []);
 
   const onFrameButton7Click = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://serparking.vercel.app");
   }, []);
 
   return (
